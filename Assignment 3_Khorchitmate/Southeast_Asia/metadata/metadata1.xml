@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <descript>
+      <abstract>Country boundaries of Southeast Asia</abstract>
+      <purpose />
+      <supplinf />
+    </descript>
+    <useconst>(http://creativecommons.org/licenses/by/3.0/)This work is licensed under a Creative Commons Attribution 3.0 License (http://creativecommons.org/licenses/by/3.0/).</useconst>
+    <datacred />
+    <citation>
+      <citeinfo>
+        <title>Country boundaries of Southeast Asia</title>
+        <pubdate />
+        <othercit />
+        <origin>World Resource Institute</origin>
+        <onlink>http://app.databasin.org/app/pages/datasetPage.jsp?id=59c48c37d74e4a2db4dbc6997c8eba3b</onlink>
+        <pubinfo>
+          <publish />
+          <pubplace />
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper />
+          <cntorg />
+        </cntperp>
+        <cntemail />
+      </cntinfo>
+    </ptcontac>
+    <status>
+      <progress />
+      <update />
+    </status>
+    <timeperd>
+      <timeinfo>
+        <sngdate />
+        <current />
+      </timeinfo>
+    </timeperd>
+    <keywords>
+      <theme>
+        <themekey>country</themekey>
+        <themekey>boundary</themekey>
+        <themekey>outline</themekey>
+        <themekey>Asia</themekey>
+        <themekt>Data Basin tags</themekt>
+      </theme>
+    </keywords>
+    <spdom>
+      <bounding>
+        <northbc>53.55443572998048</northbc>
+        <eastbc>172.0905151367188</eastbc>
+        <southbc>-54.75389099121098</southbc>
+        <westbc>68.13943481445314</westbc>
+      </bounding>
+    </spdom>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr />
+    </attracc>
+    <complete />
+    <lineage />
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attalias>FID</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attalias>Shape</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attalias>AREA</attalias>
+        <attrdef>area</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attalias>PERIMETER</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>CTRY3M_</attrlabl>
+        <attalias>CTRY3M_</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>CTRY3M_ID</attrlabl>
+        <attalias>CTRY3M_ID</attalias>
+        <attrdef>ctry3m_ID</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>COUNTRY</attrlabl>
+        <attalias>COUNTRY</attalias>
+        <attrdef>country</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attalias>CNTRY_NAME</attalias>
+        <attrdef>country name</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attalias>REGION</attalias>
+        <attrdef>region</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>CONTINENT</attrlabl>
+        <attalias>CONTINENT</attalias>
+        <attrdef>continent</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>LAND_OCEAN</attrlabl>
+        <attalias>LAND_OCEAN</attalias>
+        <attrdef>land or ocean</attrdef>
+        <attrdomv />
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Data Basin</cntorg>
+          <cntper>Data Basin Administrator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical address</addrtype>
+          <address>136 SW Washington Ave, Suite 202</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97333</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-757-0687</cntvoice>
+        <cntemail>databasin_admin@consbio.org</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Country boundaries of Southeast Asia</resdesc>
+    <distliab>No warranty is made by Data Basin for use of this dataset.  No warranty is made by Data Basin regarding the accuracy, reliability, or completeness of this dataset. In no event shall Data Basin have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic or attribute data contained within this dataset or arising out of the delivery, installation, operation, or support by Data Basin.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile Feature Class</formname>
+          <formvern>ArcGIS  10</formvern>
+          <formspec>Shapefile Feature Class</formspec>
+          <filedec>No compression applied</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://app.databasin.org/app/pages/datasetPage.jsp?id=59c48c37d74e4a2db4dbc6997c8eba3b</networkr>
+              </networka>
+            </computer>
+            <accinstr>Download from http://databasin.org</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Download from http://databasin.org</ordering>
+    </stdorder>
+    <techpreq>ESRI ArcGIS Desktop and supporting operating systems.</techpreq>
+  </distinfo>
+</metadata>
+
